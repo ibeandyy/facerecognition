@@ -1,1 +1,1 @@
-
+Accepts images via URL and uses the ClarifAI API to recognize any faces in the image. Keeps track of user image inputs in the form of a "score." Keeps track of user data via local PostgreSQL database. 
